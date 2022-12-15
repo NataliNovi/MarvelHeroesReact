@@ -1,0 +1,52 @@
+.App {
+    width: 100vw;
+}
+
+.title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+.title-small {
+    font-weight: 700;
+}
+.hero-table {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    text-align:center;
+    grid-gap: 0.6em;
+    padding: 10px;
+}
+
+.hero-card img {
+    height: auto;
+    width:16vw;
+    border-radius: 6px;
+  
+}
+
+.hero-card {
+    border: 1px solid transparent;
+    padding: 6px;
+    padding-top: 16px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    background: rgb(194, 233, 238);
+}
+
+.hero-name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 16px;
+
+}
+.information-part {
+    text-align: justify;
+}
+.hero-id {
+    color: transparent;
+}
