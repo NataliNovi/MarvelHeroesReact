@@ -1,7 +1,7 @@
 
 import './App.css';
-import './marvel.css';
-import Hero from'./marvel.jsx';
+import './components/marvel.css';
+import Hero from'./components/marvel.jsx';
 
 const heroes = [
   {
